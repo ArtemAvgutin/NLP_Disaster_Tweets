@@ -9,6 +9,11 @@
 * Были использ-ованы такие методы как: XGBoostClassifier, AdaBoostClassifier, RandomForest и Deep Learning Model.
 * Как резульат были получены модели с удовлетворяющей точностью работыю.
 
+#### Точность классификаторов / Classifier accuracy
+![image](https://github.com/ArtemAvgutin/NLP_Disaster_Tweets/assets/131138862/9c3d1255-137c-464a-9d20-f82822eabe64)
+
+#### Точность Deep Learning Model / Deep Learning Model accuracy
+![image](https://github.com/ArtemAvgutin/NLP_Disaster_Tweets/assets/131138862/fe940d0f-c230-44de-b538-03cc9f4d7bce)
 
 #### Description of the task and results:
 * There are user tweets about various disasters. Each tweet is given a label of 1 or 0, which indicates whether the tweet describes a real disaster or not. Based on this data, it is necessary to build a classifier.
